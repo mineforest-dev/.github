@@ -1,6 +1,6 @@
 
 Mineforest GitHub Organization
-Welcome to the Mineforest GitHub organization! 
+Welcome to the Mineforest GitHub Organization! 
 
 Security and Confidentiality Notice
 
